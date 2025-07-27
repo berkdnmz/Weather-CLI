@@ -1,3 +1,11 @@
 .env
+
 __pycache__/
 *.pyc
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
