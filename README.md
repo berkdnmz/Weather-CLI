@@ -76,6 +76,12 @@ python main.py
 ```
 
 ---
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) kapsamında açık kaynak olarak sunulmuştur.  
+Dilediğiniz gibi kullanabilir, değiştirebilir ve paylaşabilirsiniz — ancak orijinal geliştiriciyi belirtmeniz gerekir.
+
+---
 
 ## Proje Sahibi
 
